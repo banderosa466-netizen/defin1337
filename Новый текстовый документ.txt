@@ -1,6 +1,6 @@
 #profile-title: 😊🌸definVPN🌸😊
 #profile-icon: 🌸🍢🌸
-#announce: 📢 Тех. поддержка: @
+#announce: 📢 Тех. поддержка: @Kapibara_qq
 #subscription-userinfo: total=536870912000; expire=1893456000
 #support-url: https://t.me/descvpn_bot
 #profile-web-page-url: https://t.me/descvpn
