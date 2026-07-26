@@ -4,7 +4,6 @@
 #subscription-userinfo: total=536870912000; expire=1893456000
 #profile-update-interval: 6
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZXBhcmF0b3I=@127.0.0.1:1#✈️ ТГК: @commandvpnfree
 vless://de2edd29-c746-4dc7-a50b-e0692b01209d@89.125.74.127:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=QBSuzwfPwj9OW_pE0dQc5qgqnmfjh1Y9c10fq_bLZmQ&sid=99bcf8d2&fp=firefox#Авто | WiFi
 vless://0cc733cb-ceb9-4ee5-97f7-fdad42e16d19@83.147.255.185:40443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=CS4yIc5hLxpsoshwQW0G62m2YGCeoop_APIDgcQG3i8&fp=firefox&serviceName=grpc#Авто | WiFi
 vless://0cc733cb-ceb9-4ee5-97f7-fdad42e16d19@83.147.255.185:17443?encryption=none&type=grpc&security=reality&sni=5post-gate.x5.ru&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&fp=firefox&serviceName=grpc#Авто | WiFi
